@@ -1,0 +1,19 @@
+{
+  "wheel_id": 331,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-com-103",
+  "project": "bathroom-renovations-melbourne-comparison-86d22c821e1d88c042713",
+  "parent_t1_ref": "bathrenovationmelbourne-com-151",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne comparison",
+  "intended_url": "http://bathroom-renovations-melbourne-comparison-86d22c821e1d88c042713.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "ddae3ab900463b6c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathrenovationmelbourne-com-151/",
+      "anchor": "bathroom renovations melbourne",
+      "rel": "follow"
+    }
+  ]
+}
